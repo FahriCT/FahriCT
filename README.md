@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Renvas<br>🔭 I'm currently studying in Indonesia<br> 👨‍💻 Most of my projects are private <br>🌱 I'm currently learning how to be a useful person
+Hi 👋, I'm Senvas<br>🔭 I'm currently studying in Indonesia<br> 👨‍💻 Most of my projects are private <br>🌱 I'm currently learning how to be a useful person
 
 # 📊 GitHub Stats:
 
